@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """ค่าคงที่ทั้งหมดของ pipeline — แก้ที่นี่ที่เดียว"""
 from pathlib import Path
 
